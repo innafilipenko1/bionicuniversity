@@ -10,6 +10,8 @@ public class Test {
 
     public static void main(String[] args) {
 
+        //http://howtodoinjava.com/2012/11/21/how-to-print-the-content-of-array-in-java/ 
+
    /*     int offset = 50 % 26;
         System.out.println(offset);
         int next = offset + 26;
